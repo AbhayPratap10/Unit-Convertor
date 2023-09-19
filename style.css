@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: sans-serif;
+}
+.main{
+    max-width: 550px;
+    height: 285px;
+    margin: 10px auto;
+}
+.title{
+    padding: 33px 30px;
+    font-size: 28px;
+    font-weight: 800;
+    letter-spacing: -0.80px;
+    
+}
+#input-el{
+    display: block;
+    width: 117px;
+    height: 85px;
+    color: #fff;
+    margin: 10px auto;
+    background-color: #6943FF;
+    border: 2px solid #B295FF;
+    border-radius: 0.1em;
+    font-size: 50px;
+    text-align: center;
+}
+.firstBox{
+    background: #6943FF;
+    color: #fff;
+}
+.secondBox{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #ebe9e9;
+
+}
+.convert{
+    background-color: #fff;
+    padding:10px 30px;
+    border: none;
+    border-radius: 5px;
+    font-size: large;
+    margin: 20px 0px;
+}
+.card{
+    width: 500px;
+    height: 109px;
+    background-color: #fff;
+    margin: 15px;
+}
+.sub-title{
+    color: #6943FF;
+
+}
