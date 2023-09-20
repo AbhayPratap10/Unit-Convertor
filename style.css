@@ -48,6 +48,9 @@ body{
     font-size: large;
     margin: 20px 0px;
 }
+.convert:hover{
+    background: #dddddf;
+}
 .card{
     width: 500px;
     height: 109px;
@@ -56,5 +59,6 @@ body{
 }
 .sub-title{
     color: #6943FF;
-
+    font-size: 17px;
 }
+
